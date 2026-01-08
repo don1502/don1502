@@ -6,14 +6,8 @@
 </p>
 
 <h1 align="center">👋 Hey there, I'm <span style="color:#8A2BE2;">DON CHRIST G</span></h1>
-<h3 align="center">🚀 AI/ML Engineer | 🧠 Deep Learning Enthusiast | 💻 Full-Stack Developer | 🏁 Competitive Programmer</h3>
-
-<p align="center">
-  <a href="https://github.com/don1502">
-    <img src="https://komarev.com/ghpvc/?username=don1502&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views"/>
-  </a>
-</p>
-
+<h3 align="center">🚀 AI/ML Engineer | 🧠 Deep Learning Enthusiast | 💻 Full-Stack Developer | 🏁 Competitive Programmer</h3
+                                                                                                                      
 ---
 
 ## 🧭 About Me  
