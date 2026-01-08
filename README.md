@@ -83,6 +83,17 @@ REST APIs • Data Preprocessing • Model Deployment • Inference Optimization
 - Focused on clean API design and production scalability.
 ---
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=don1502&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=don1502&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=don1502&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</p>
+
+---
+
 ## 🤝 Let’s Connect  
 
 📧 [dongomez1502@gmail.com](mailto:dongomez1502@gmail.com)  
