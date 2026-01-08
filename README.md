@@ -18,7 +18,7 @@
 
 ## 🧭 About Me  
 
-I’m an aspiring **AI/ML Engineer** currently pursuing my **B.Tech in Artificial Intelligence and Machine Learning (2023–2027)** at **St. Joseph’s College of Engineering**.  
+I’m an aspiring **AI/ML Engineer** currently pursuing my **B. Tech in Artificial Intelligence and Machine Learning (2023–2027)** at **St. Joseph’s College of Engineering**.  
 
 I love creating **scalable, real-world AI systems** that merge deep learning, full-stack engineering, and creativity — from **smart healthcare** to **intelligent automation**.  
 
@@ -39,10 +39,8 @@ I love creating **scalable, real-world AI systems** that merge deep learning, fu
 
 **🧠 Languages:**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-java-00599C?logo=java&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-00599C?logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 
 **🧩 Frameworks & Libraries:**  
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
@@ -55,7 +53,7 @@ I love creating **scalable, real-world AI systems** that merge deep learning, fu
 ![React.js](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=black)
 
 **⚙️ Domains:**  
-NLP • Computer Vision • LLMs • Reinforcement Learning • Generative AI  
+NLP • LLMs • Reinforcement Learning • Generative AI  
 
 **🧠 Additional Skills:**  
 REST APIs • Data Preprocessing • Model Deployment • Inference Optimization  
@@ -65,16 +63,8 @@ REST APIs • Data Preprocessing • Model Deployment • Inference Optimization
 ## 🧠 Currently Learning  
 - Advanced **Reinforcement Learning** (custom RL environments)  
 - **Distributed AI training** using Ray / PyTorch Lightning  
-- **Full-stack architecture** using React + Node.js + FastAPI  
+- **Full-stack architecture** using React + Node.js + Express  
 - Exploring **AI Agent Design** for personal assistant systems  
-
----
-
-## 🚧 Upcoming Projects  
-- 🧩 **AI Personal Assistant** (Voice + Vision + Actions)  
-- 🔐 **Virtual RL Sandbox** for secure reinforcement learning execution  
-- 💬 **Discord + Codeforces Mashup** with AI Cheating Detection  
-- 🧠 **LLM Fine-tuning Pipeline** for domain-specific tasks  
 
 ---
 
@@ -104,33 +94,24 @@ REST APIs • Data Preprocessing • Model Deployment • Inference Optimization
 
 ---
 
-## 🏆 Achievements  
-
-- 🥇 **Winner** – ProjectFest (AI/ML Innovation Challenge)  
-- 🏆 **Top Rank** – IEEE Software Competition, Sairam College  
-- 💡 **Participant** – IBM Datathon (Shooting Star Foundation)  
-- 🎯 **Participant** – AIML Challenge 2, IIT Madras  
-
----
-
 ## 📊 GitHub Insights  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ajaysvasan&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Ajaysvasan&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=don1502&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=don1502&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajaysvasan&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=don1502&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
 ---
 
 ## 🤝 Let’s Connect  
 
-📧 [ajay192006@gmail.com](mailto:ajay192006@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/ajay-s-vasan-584111291)  
-💻 [GitHub](https://github.com/Ajaysvasan)  
+📧 [dongomez1502@gmail.com](mailto:dongomez1502@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/don-gomez-759515290)  
+💻 [GitHub](https://github.com/don1502)  
 
 > ⭐ If my work inspires you, don’t forget to star a repo or drop a message — let’s build something amazing together!
 
