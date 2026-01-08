@@ -64,42 +64,25 @@ REST APIs • Data Preprocessing • Model Deployment • Inference Optimization
 
 ## 🔬 Featured Projects  
 
-### 🕵️‍♂️ Deepfake Detection System  
-> Real-time detection using CNN + Attention models  
-- Identifies manipulated frames with >95% accuracy  
-- **Tech:** TensorFlow, Keras, OpenCV, Flask  
+### LLM From Scratch  
+> Built and fine-tuned a Large Language Model using PyTorch. 
+- Implemented tokenization, attention mechanisms, transformers, and GPT architecture.
+- Developed custom training loops and optimization strategies.
+- Used PostgreSQL to store user data and query history.
 
-### 🎥 Smart Security Camera Prototype  
-> AI-powered surveillance with object tracking  
-- Built using YOLOv5 and OpenCV  
-- Generates alerts for suspicious movements  
+### Voice - Text Agent 
+> Developed real-time speech-to-text and text-to-speech application.
+- Built a responsive UI using React and Tailwind CSS.
+- Integrated MySQL for secure user data and audio history storage.
+- Added multi-language and conversational features.
 
-### 💬 Medical Chatbot (Transformers + NLP)  
-> Conversational assistant for healthcare inquiries  
-- NLP-based diagnosis suggestion engine  
-
-### ❤️ Heart Disease Prediction System  
-> Random Forest model for predictive analytics  
-- Enables early diagnosis through data-driven insight  
-
-### 💾 Student Database System (C++)  
-> Built from scratch using **Doubly Linked Lists**  
-- Demonstrates strong OOP, logic, and system design skills  
-
+### E- Commerce Site
+> Built a full-stack e-commerce platform using React and Node.js (Express).
+- Designed and managed PostgreSQL databases for users and products.
+- Implemented secure CRUD operations with optimized schema design.
+- Focused on clean API design and production scalability.
 ---
 
-## 📊 GitHub Insights  
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=don1502&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api?username=don1502&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=don1502&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-</p>
-
----
 
 ## 🤝 Let’s Connect  
 
