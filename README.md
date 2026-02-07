@@ -49,10 +49,7 @@ Deep Learning • Transformers • NLP • REST APIs • Full-Stack Development
 ---
 
 ## GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=don1502&show_icons=true&hide_border=true" height="140">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=don1502&layout=compact&hide_border=true" height="140">
-</p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=don1502&theme=tokyonight&hide_border=true" height="150" /> <img src="https://github-readme-stats.vercel.app/api?username=don1502&show_icons=true&theme=tokyonight&hide_border=true" height="150" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=don1502&layout=compact&theme=tokyonight&hide_border=true" height="150" /> </p>
 
 ---
 
